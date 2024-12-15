@@ -1,0 +1,3 @@
+local Player = game.Players.Gorber2341_5
+local value = Player.Values.Strength.Value
+value = 12000000000000
